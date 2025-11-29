@@ -8,7 +8,7 @@
 // @grant       unsafeWindow
 // @grant       GM_getResourceText
 // @grant       GM.getValue
-// @require     https://raw.githubusercontent.com/elkorol/stash-userscripts/Echoman-Master-Branch/src\StashUserscriptLibrary.js
+// @require     https://raw.githubusercontent.com/yinzburghbear/stash-userscripts/refs/heads/master/src/StashUserscriptLibrary.js
 // ==/UserScript==
 
 (function () {
